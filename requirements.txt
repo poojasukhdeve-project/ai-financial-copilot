@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+transformers
+torch
+plotly
+openai
